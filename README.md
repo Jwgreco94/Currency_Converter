@@ -1,5 +1,5 @@
 # Currency_Converter
-Utilizes Restful web service to calculate currency conversions. This program was created for academic purpouses in Python and only the specification for functions was given. Although spec to code is fairly easy, all functions, enforced preconditions, unit tests, and the driver file was created by me. It is also important to note that the API key used in this file to connect to the RESTful web service will expire in Feburary 2021 as it is a unique key that was provided per course.
+Utilizes Restful web service to calculate currency conversions. This program was created for academic purpouses in Python and only the specification for functions was given. Although spec to code is fairly easy, the module, test script, and the driver file was created by me. It is also important to note that the API key used in this file to connect to the RESTful web service will expire in Feburary 2021 as it is a unique key that was provided per course.
 
 
 Instructions for using Currency Converter.
